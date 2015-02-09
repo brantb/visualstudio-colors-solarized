@@ -141,6 +141,45 @@
               <Item Name="XML Text" Foreground="0x00164BCB" Background="0x02000000" BoldFont="No"/>
               <Item Name="XSLT Keyword" Foreground="0x00D28B26" Background="0x02000000" BoldFont="No"/>
               <Item Name="vsvim_commandmargin" Foreground="0x00969483" Background="0x00362B00" BoldFont="No"/>
+              <!-- Basic PS -->
+              <Item Name="PowerShell 3 Command Name" Foreground="0x00A1A193" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Generic" Foreground="0x00C4716C" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Type Name" Foreground="0x000089B5" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Attribute" Foreground="0x00D28B26" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Variable" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Parameter" Foreground="0x0098A12A" Background="0x01000001" BoldFont="No"/>
+              <!-- Powershell Tools for Visual Studio -->
+              <Item Name="PowerShell Interactive - DarkRed" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkGreen" Foreground="0x00079A71" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkYellow" Foreground="0x000089B5" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkBlue" Foreground="0x00D28B26" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkMagenta" Foreground="0x008236D3" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkCyan" Foreground="0x0098A12A" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Gray" Foreground="0x00837B65" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkGray" Foreground="0x00756E58" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Red" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Green" Foreground="0x00079A71" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Yellow" Foreground="0x000089B5" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Blue" Foreground="0x00D28B26" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Magenta" Foreground="0x008236D3" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Cyan" Foreground="0x0098A12A" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Attribute" Foreground="0x000089B5" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Command" Foreground="0x00969483" Background="0x01000001" BoldFont="Yes"/>
+              <Item Name="PowerShell Command Argument" Foreground="0x00969483" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Command Parameter" Foreground="0x00A1A193" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Keyword" Foreground="0x00079A71" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Number" Foreground="0x0098A12A" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Operator" Foreground="0x00079A71" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell String" Foreground="0x0098A12A" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Type" Foreground="0x000089B5" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Variable" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Member" Foreground="0x00969483" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Group Start" Foreground="0x00969483" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Group End" Foreground="0x00969483" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogError" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogWarning" Foreground="0x000089B5" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogDebug" Foreground="0x00837B65" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogVerbose" Foreground="0x00969483" Background="0x01000001" BoldFont="No"/>
               <!-- ReSharper -->
               <Item Name="ReSharper Error Highlighting" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
               <Item Name="ReSharper Underlined Error Highlighting" Foreground="0x002F32DC" Background="0x01000001" BoldFont="No"/>
@@ -257,3 +296,4 @@
     </Category>
   </Category>
 </UserSettings>
+
