@@ -141,6 +141,45 @@
               <Item Name="XML Text" Foreground="$Orange" Background="0x02000000" BoldFont="No"/>
               <Item Name="XSLT Keyword" Foreground="$Blue" Background="0x02000000" BoldFont="No"/>
               <Item Name="vsvim_commandmargin" Foreground="$PrimaryContent" Background="$Background" BoldFont="No"/>
+              <!-- Basic PS -->
+              <Item Name="PowerShell 3 Command Name" Foreground="$EmphasizedContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Generic" Foreground="$Violet" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Type Name" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Attribute" Foreground="$Blue" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Variable" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell 3 Parameter" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
+              <!-- Powershell Tools for Visual Studio -->
+              <Item Name="PowerShell Interactive - DarkRed" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkGreen" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkYellow" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkBlue" Foreground="$Blue" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkMagenta" Foreground="$Magenta" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkCyan" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Gray" Foreground="$MiddleGray" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - DarkGray" Foreground="$SecondaryContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Red" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Green" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Yellow" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Blue" Foreground="$Blue" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Magenta" Foreground="$Magenta" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Interactive - Cyan" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Attribute" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Command" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="Yes"/>
+              <Item Name="PowerShell Command Argument" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Command Parameter" Foreground="$EmphasizedContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Keyword" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Number" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Operator" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell String" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Type" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Variable" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Member" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Group Start" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Group End" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogError" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogWarning" Foreground="$Yellow" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogDebug" Foreground="$MiddleGray" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShellLogVerbose" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="No"/>
               <!-- ReSharper -->
               <Item Name="ReSharper Error Highlighting" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
               <Item Name="ReSharper Underlined Error Highlighting" Foreground="$Red" Background="0x01000001" BoldFont="No"/>
