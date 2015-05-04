@@ -167,7 +167,10 @@
               <Item Name="PowerShell Command" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="Yes"/>
               <Item Name="PowerShell Command Argument" Foreground="$PrimaryContent" Background="0x01000001" BoldFont="No"/>
               <Item Name="PowerShell Command Parameter" Foreground="$EmphasizedContent" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Comment" Foreground="$SecondaryContent" Background="0x01000001" BoldFont="No"/>
               <Item Name="PowerShell Keyword" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Line Continuation" Foreground="$Highlight1" Background="0x01000001" BoldFont="No"/>
+              <Item Name="PowerShell Loop Label" Foreground="$Highlight1" Background="0x01000001" BoldFont="No"/>
               <Item Name="PowerShell Number" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
               <Item Name="PowerShell Operator" Foreground="$Green" Background="0x01000001" BoldFont="No"/>
               <Item Name="PowerShell String" Foreground="$Cyan" Background="0x01000001" BoldFont="No"/>
